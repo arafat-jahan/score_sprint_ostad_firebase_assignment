@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "822752724214",
+    "firebase_url": "https://deliverytrackingapp-bc810-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "deliverytrackingapp-bc810",
+    "storage_bucket": "deliverytrackingapp-bc810.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822752724214:android:eb103aa50289262f6518d7",
+        "android_client_info": {
+          "package_name": "com.example.deliverytrackingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCESHtkD-wwWtx2OX2eMiASUtF4KZG8ynQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822752724214:android:549fa54091362c536518d7",
+        "android_client_info": {
+          "package_name": "com.example.football_matches"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCESHtkD-wwWtx2OX2eMiASUtF4KZG8ynQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822752724214:android:cc0282651163849c6518d7",
+        "android_client_info": {
+          "package_name": "com.example.ostad_firebase_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCESHtkD-wwWtx2OX2eMiASUtF4KZG8ynQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822752724214:android:4548faf7c9a5ddbb6518d7",
+        "android_client_info": {
+          "package_name": "com.example.score_checker_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCESHtkD-wwWtx2OX2eMiASUtF4KZG8ynQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
